@@ -1,4 +1,4 @@
-// import React from "react";
+import React from "react";
 
 import star from "../Images/Star 1.png"
 
