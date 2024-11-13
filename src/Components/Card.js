@@ -1,27 +1,5 @@
 // import React from "react";
 
-// export default function Card (props) {
-// return (
-//   <>
-//   <div className="main-container">
-//     <img src = {props.imageUrl} />
-//   <div className="detail-container">
-//    <div className="google-maps">
-//    <i class="fas fa-map-marker-alt"></i>
-//    <p>{props.location}</p> <a href={props.googleMapsUrl} target="_blank"> View On Google Maps</a>
-//     </div> 
-//     <div className="info">
-//      <h1>{props.title}</h1>
-//      <span>{props.startDate}&nbsp;-&nbsp;{props.endDate}</span>
-//      <p>{props.description}</p>
-//     </div>
-//   </div>
-
-//   </div>
-//   </>
-// )
-// }
-
 import star from "../Images/Star 1.png"
 
 export default function Card (props) {
