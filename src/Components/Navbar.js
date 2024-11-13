@@ -1,16 +1,4 @@
-// import React from 'react';
 
-
-// export default function Navbar() {
-//     return (
-//         <>
-//         <div className='nav-container'>
-//         <i class="fas fa-globe"></i><p>my travel journal</p>
-        
-//         </div>
-//         </>
-//     )
-// }
 import React from "react";
 import image from "../Images/airbnb.png"
 
